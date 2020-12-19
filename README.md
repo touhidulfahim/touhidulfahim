@@ -11,3 +11,6 @@ Also fascinated by the new .NET technologies especially ASP.NET MVC. Using vario
 - 😄 Pronouns: FAHIM
 - ⚡ Fun fact: nothing
 I consistently strive to develop solutions that make businesses more robust and manage projects to deliver to exact specifications time and time again. 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=touhidulfahim)](https://github.com/touhidulfahim/github-readme-stats)
