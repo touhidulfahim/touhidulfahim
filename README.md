@@ -4,17 +4,12 @@ I am a Full Stack Developer with an excellent ability for self-learning. Seeking
 Also fascinated by the new .NET technologies especially ASP.NET MVC. Using various development technologies, including:
 - 🔭 I’m currently working on ASP.NET MVC | .Net Core | ASP.NET Core 
 - 🌱 I’m currently learning Full Stack Web Development With Python & JavaScript | React | React Native | Django | React with Django REST API
-- 👯 I’m looking to collaborate on multi vendor base ecommerce
-- 🤔 I’m looking for help with my new mission and vision
 - 💬 Ask me about ASP.NET MVC
 - 📫 How to reach me: skype: touhidulfahim
-- 😄 Pronouns: FAHIM
-- ⚡ Fun fact: nothing
-I consistently strive to develop solutions that make businesses more robust and manage projects to deliver to exact specifications time and time again. 
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
