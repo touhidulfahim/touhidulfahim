@@ -14,12 +14,12 @@ I consistently strive to develop solutions that make businesses more robust and 
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: src="https://toppng.com/uploads/preview/linkedin-logo-vector-icons-linkedin-icon-vector-circle-115533859484o8nwgwfy4.png"
 
 <!-- Links to your social media accounts -->
 
