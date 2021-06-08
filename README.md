@@ -5,7 +5,8 @@ Also fascinated by the new .NET technologies especially ASP.NET MVC. Using vario
 - 🔭 I’m currently working on ASP.NET MVC | .Net Core | ASP.NET Core 
 - 🌱 I’m currently learning Full Stack Web Development With Python & JavaScript | React | React Native | Django | React with Django REST API
 - 💬 Ask me about ASP.NET MVC
-- 📫 How to reach me: skype: touhidulfahim
+- 📫 How to reach me: skype: touhidulfahim,  email: muhdtohidul@gmail.com
+
 
 <!-- Actual text -->
 
