@@ -34,8 +34,10 @@
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
-  
+  </a> 
+ <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>  
 </p>
 
 <p align="center">
