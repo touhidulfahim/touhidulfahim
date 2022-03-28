@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/touhidulfahim/" alt="touhidul fahim's github stats" target="_blank">
    <img src="https://img.shields.io/badge/-touhidulfahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/touhidulfahim/" />
  </a>
+    <a href="#" alt="touhidul fahim's github stats" target="_blank">
+   <img src="https://komarev.com/ghpvc/?username=touhidulfahim" />
+ </a>
 </p>
 
 >I’m a Full-Stack Developer with 3 years of experience in developing and designing distributed applications built on top of cutting-edge technologies. I have an interest in Docker, Redish, RabbitMQ, Microservice, DDD, Various design patterns, and Clean Architecture. I mainly develop using ASP.Net, ASP.NET MVC, ASP.NET Core MVC, MSSQL, 3-tier architecture, facade, repository, generic design pattern, but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion to share my knowledge.
