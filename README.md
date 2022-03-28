@@ -1,10 +1,10 @@
 <h1 align="center">Assalamualaikum, This is Mohammad Touhidul Islam 👋</h1>
 
 <p align="center">
-<a href="https://twitter.com/touhidulfahim" alt="touhidul fahim's github stats">
+<a href="https://twitter.com/touhidulfahim" alt="touhidul fahim's github stats" target="_blank">
    <img src="https://img.shields.io/badge/-touhidulfahim-%23fff?style=flat-square&logo=twitter&logoColor=ffffff%22" />
  </a>
-  <a href="https://www.linkedin.com/in/touhidulfahim/" alt="touhidul fahim's github stats">
+  <a href="https://www.linkedin.com/in/touhidulfahim/" alt="touhidul fahim's github stats" target="_blank">
    <img src="https://img.shields.io/badge/-touhidulfahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/touhidulfahim/" />
  </a>
 </p>
