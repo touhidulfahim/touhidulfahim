@@ -14,7 +14,7 @@
 
 >I’m a Software Engineer with 3 years of experience in developing and designing distributed applications built on top of cutting-edge technologies. I have an interest in Docker, Redish, RabbitMQ, Microservice, DDD, Various design patterns, and Clean Architecture. I mainly develop using ASP.Net, ASP.NET MVC, ASP.NET Core MVC, MSSQL, 3-tier architecture, facade, repository, generic design pattern, but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion to share my knowledge.
 
-- 🔭 Right now I am working on [Canadian Health Card Verification Systems] (https://ohiphcv.ca/) and [Manufacturing ERP] (Papyrus)
+- 🔭 Right now I am working on [Manufacturing ERP] (Papyrus)
 - 🌱 I’m currently learning Full Stack Web Development With Python & JavaScript | React | React Native | Django | React with Django REST API
 - 💬 Ask me about ASP.NET MVC
 - 📫 How to reach me: skype: touhidulfahim,  email: muhdtohidul@gmail.com
