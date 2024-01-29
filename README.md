@@ -7,7 +7,11 @@
 <img src="https://img.shields.io/github/followers/touhidulfahim?label=Followers&style=for-the-badge&color=blue" />
 <a href="https://www.buymeacoffee.com/touhidulfahim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
->I’m a Software Engineer with 6 years of experience in developing and designing distributed applications built on top of cutting-edge technologies. I have an interest in Docker, Redish, RabbitMQ, Microservice, DDD, Various design patterns, and Clean Architecture. I mainly develop using ASP.Net, ASP.NET MVC, ASP.NET Core MVC, MSSQL, 3-tier architecture, facade, repository, generic design pattern, but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion to share my knowledge.
+
+-----
+### About Me
+
+<p>I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With a decade of experience, I specialize in delivering high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.</p>
 
 - 🔭 Right now I am working on [Manufacturing ERP] (Papyrus)
 - 🌱 I’m currently learning Full Stack Web Development With ASP.NET CORE MVC, WEB API & ANGULAR 
