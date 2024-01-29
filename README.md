@@ -13,13 +13,6 @@
 
 <p>I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With a decade of experience, I specialize in delivering high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.</p>
 
-- 🔭 Right now I am working on [Manufacturing ERP] (Papyrus)
-- 🌱 I’m currently learning Full Stack Web Development With ASP.NET CORE MVC, WEB API & ANGULAR 
-- 💬 Ask me about ASP.NET MVC | ASP.NET CORE | .NET CORE
-- 📫 How to reach me: skype: touhidulfahim,  email: muhdtohidul@gmail.com
-- 👯 I’m looking to collaborate on: Docker, Redish, DDD, Micro-service and Clean Architecture.
-
-
 Currently, **I'm open to work and employment opportunities**.
 
  **I specialize in various areas, including, but not limited to:**
@@ -49,7 +42,20 @@ Currently, **I'm open to work and employment opportunities**.
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
 
-
+###### Architectural Patterns / Design Patterns / Design Principles
+![REST](https://img.shields.io/badge/REST-0078D7?style=flat)
+![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-0078D7?style=flat)
+![MVC](https://img.shields.io/badge/MVC_Architecture-0078D7?style=flat)
+![N-Layer Architecture](https://img.shields.io/badge/N-Layer_Architecture-0078D7?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D7?style=flat)
+![Singleton Pattern](https://img.shields.io/badge/Singleton_Pattern-0078D7?style=flat)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-0078D7?style=flat)
+![Unit of Work Pattern](https://img.shields.io/badge/Unit_of_Work_Pattern-0078D7?style=flat)
+![CQRS Pattern](https://img.shields.io/badge/CQRS_Pattern-0078D7?style=flat)
+![Mediator Pattern](https://img.shields.io/badge/Mediator_Pattern-0078D7?style=flat)
+![DDD](https://img.shields.io/badge/DDD_(Domain_Driven_Design)-0078D7?style=flat)
+![OOP](https://img.shields.io/badge/OOP-0078D7?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-0078D7?style=flat)
 ---
 
 <p align="center"> 
