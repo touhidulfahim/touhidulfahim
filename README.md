@@ -56,29 +56,42 @@ Currently, **I'm open to work and employment opportunities**.
 ![DDD](https://img.shields.io/badge/DDD_(Domain_Driven_Design)-0078D7?style=flat)
 ![OOP](https://img.shields.io/badge/OOP-0078D7?style=flat)
 ![SOLID](https://img.shields.io/badge/SOLID-0078D7?style=flat)
----
 
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
-</p>
+###### Database/ORM/Data Access Technology
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-0078D7?style=flat&logo=ado&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0078D7?style=flat&logo=Dapper&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=flat&logo=LINQ&logoColor=white)
+![Entity Framework Core(Code First, Database First)](https://img.shields.io/badge/Entity_Framework_Core(Code_First,_Database_First)-0078D7?style=flat&logo=efcore&logoColor=white)
 
-<p align="center">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://learnosmart.com/Content/images/courses/asp-net-mvc.jpg" alt="dotnet" height="60px" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a> 
- <a href="https://www.microsoft.com/en-us/sql-server/">
-    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>  
-</p>
+###### Back-End
+![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D7?style=flat&logo=core&logoColor=white)
+![API](https://img.shields.io/badge/ASP.NET_Core_Web_API-0078D7?style=flat&logo=api&logoColor=white)
 
-<p align="center">
-  <a href="#" alt="touhidul fahim's github stats"><img src="https://github-readme-stats.vercel.app/api?username=touhidulfahim" /></a>
-</p>
+###### Front-End
+![Razor](https://img.shields.io/badge/Razor-0078D7?style=flat&logo=Razor&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0078D7?style=flat&logo=Blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-0078D7?style=flat&logo=Blazor&logoColor=white)
+
+###### Source Controls
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps_Server-0078D7?style=flat&logo=azure-devops&logoColor=white)
+
+###### Logging
+![Serilog](https://img.shields.io/badge/Serilog-0078D7?style=flat)
+
+###### Project Management
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps_Server-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-2088FF?style=flat&logo=github-actions&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0078D7?style=flat)
+![Agile](https://img.shields.io/badge/Agile-0078D7?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-0078D7?style=flat)
+
+### Github Stats
+-----
+<img width="825" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touhidulfahim&theme=tokyonight"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=8&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/saddamhossain/github-profile-trophy)
+
