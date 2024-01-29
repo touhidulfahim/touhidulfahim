@@ -73,8 +73,8 @@ Currently, **I'm open to work and employment opportunities**.
 
 ###### Front-End
 ![Razor](https://img.shields.io/badge/Razor-0078D7?style=flat&logo=Razor&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0078D7?style=flat&logo=Blazor&logoColor=white)
-![React](https://img.shields.io/badge/React-0078D7?style=flat&logo=Blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F05032?style=flat&logo=Angular&logoColor=white)
+![React](https://img.shields.io/badge/React-4479A1?style=flat&logo=React&logoColor=white)
 
 ###### Source Controls
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
